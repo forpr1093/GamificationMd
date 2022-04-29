@@ -63,7 +63,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 - A feature to monitor drivers' behaviour based on his safety precautions, accountability and feedback/rating of the customers on the driver
 - Driver with higher rating can gain more exp while completing task
 - How to maintain good behaviour
-	1) driver safety
+	1) drive safety
 	2) send the vehicle to maintenance on time
 	3) reduce engine idle hour
 	4) complete task on time etc.
