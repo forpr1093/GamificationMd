@@ -64,11 +64,20 @@
 ---
 ### Account Tier List
 - A tiering system which drivers with higher tier will receive more benefits
+- The benefits should be unique and long term
+	Example:
+		- personal parking slot in company
+		- Discount while dining in company's cafeteria
+		
 - purpose of increasing tier list
-	1) Gain more benefits
+	1) Gain more and unique benefits
 
 #### Reason to Implement
-1) 
+Same as [[#Reasons to Implement|Leveling System]]
+1) unique rewards to motivate drivers
+
+#### Problems
+- Company might not willing to provide such benefits to drivers
 
 #### External Links
 - [[https://www.grab.com/my/rewards/|Grabrewards]]
