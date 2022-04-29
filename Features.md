@@ -3,7 +3,6 @@
 - **Mobile application**
 - less complicated (touch and go (not the app))
 ## Features
-
 ### Ideas
 | Features                    | Description                                                                                                          | Score |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -22,7 +21,7 @@
 **5** - must be implemented
 
 ---
-### Account Tier List
+#### Account Tier List
 - A tiering system which drivers with higher tier will receive more benefits
 - The benefits should be unique and long term
 	Example:
@@ -32,67 +31,67 @@
 - purpose of increasing tier list
 	1) Gain more and unique benefits
 
-#### Reason to Implement
+##### Reason to Implement
 Same as [[#Reasons to Implement|Leveling System]]
 1) unique rewards to attract drivers
 
-#### Problems
+##### Problems
 - Company might not willing to provide such benefits to drivers
 
-#### External Links
+##### External Links
 - [[https://www.grab.com/my/rewards/|Grabrewards]]
 ![[Pasted image 20220428172716.png]]
 
 ---
-### Daily Challenges/Quest
+#### Daily Challenges/Quest
 - Simple task (log Into the system/ clock in on time, maintain low engine idle hour) to be completed daily by the drivers
 
-#### Reason to Implement
+##### Reason to Implement
 1) easy to implement
 2) alternative way for drivers to level up
 3)  encouraging positive behaviour -  example: go to work on time
 4) encourage drivers to complete task
 
-#### Problems
+##### Problems
 - 
 
-#### External Links
+##### External Links
 - [[https://duoplanet.com/duolingo-challenges/|Duolingo Challanges]]
 ![[Pasted image 20220428180838.png]]
 
 ---
-### Driver KPI
+#### Driver KPI
 - A feature to monitor drivers' behaviour based on his safety precautions, accountability and feedback/rating of the customers on the driver
 - Driver with higher rating can gain more exp while completing task
 
-#### Reason to Implement
+##### Reason to Implement
 1) Drivers will become more responsible on their job (to get better rating or feedback)
 2) encourage drivers to maintain positive behaviour
 
-#### Problems
+##### Problems
 - 
 
-#### External Link
+##### External Link
 - [[https://play.google.com/store/apps/details?id=com.globaltrack.gtdriver|GT Driver]]
 
 ---
-### Leaderboard
+#### Leaderboard
 - A ranking system which drivers with higher rating/scores or better feedback will be placed at the higher places.
 - The leaderboard will be reset every week/month to create opportunity for new drivers
 
-#### Reason to Implement
+##### Reason to Implement
 1) motivate drivers to complete more task  
 2) encourage drivers to maintain positive behaviour
-#### Problems
+##### Problems
 - Create a competitive environment
 	- conflict might happen between drivers => affect working environment
 	- affect drivers behaviour
 
-#### External Link
+##### External Link
 - 
 
 ---
-### Leveling System
+#### Leveling System
 - Driver gains exp by completing task (delivery, [[#Daily Challenges Quest]], and others) or training /education or maintaing good behaviour
 - Purpose of leveling up
 	1) Gain benefits
@@ -100,55 +99,55 @@ Same as [[#Reasons to Implement|Leveling System]]
 	3) Grind [[#Leaderboard]]?
 	4) indicate progress and convey status (higher level = more expert) => SATISFACTION
 
-#### Reasons to Implement
+##### Reasons to Implement
 1) Improve driver self-esteem
 	- Motivate driver to do their job
 2) Attract people to become drivers
 3) Proof of progression
 	- Able to track the contribution of the drivers
 
-#### Problems
+##### Problems
 1) The amount of benefits can be provided by each company might vary
 2) 
 
-#### External Links
+##### External Links
 - [[https://www.sololearn.com/|Sololearn]]
 ![[Pasted image 20220429103238.png]]
 
 ---
-### Milestones
+#### Milestones
 - Driver can achieve several milestones by attending classes or training provided by the application.
 - Purpose of achieving milestones
 	1) Gain rewards
 	2) Upgrade [[#Account Tier List]] => more benefits 
 	3) Satisfaction
 
-#### Reasons to Implement
+##### Reasons to Implement
 1) Encourage drivers to attend training
 2) Encourage the company to provide training to the drivers
 3) trained drivers has a more knowledge on road safety => promote road safety 
 4) training helps to adjust drivers behaviour
 
-#### Problems
+##### Problems
 - NO
 
-#### External Links
+##### External Links
 - [[https://byjus.com/|BYJUS]]
 
 ---
-### Points System
+#### Points System
 - A store system where the drivers can use the points they earn to exchange items or vouchers
 - The points can be acquired by daily clock-in, completing task, leveling up or other.
 
 ---
-### Health Check
+#### Health Check
 - A feature that can monitor the driver's health based on the active working hours, number of tasks completed in a specific period etc.
 - If the driver is having a unhealthy working behaviour (accepting too much tasks, driving too fast frequently to complete tasks etc), the system will stop the account from gaining exp/rewards.
 
-#### Reason to Implement
+##### Reason to Implement
 1) Prevent the driver from doing too much that causes health isseus
 2) avoid company misuses the system (forcing drivers to complete more task)
 
-#### Problem
+##### Problem
 - 
 
