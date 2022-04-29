@@ -52,7 +52,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 4) encourage drivers to complete task
 
 ##### Problems
-- 
+- NO
 
 ##### External Links
 - [Duolingo Challenges](https://duoplanet.com/duolingo-challenges/)
