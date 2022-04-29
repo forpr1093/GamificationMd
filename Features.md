@@ -63,6 +63,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 ---
 ### Driver KPI
 - A feature to monitor drivers' behaviour based on his safety precautions, accountability and feedback/rating of the customers on the driver
+- Driver with higher rating can gain more exp while completing task
 
 #### Reason to Implement
 1) Drivers will become more responsible on their job (to get better rating or feedback)
@@ -77,6 +78,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 ---
 ### Leaderboard
 - A ranking system which drivers with higher rating/scores or better feedback will be placed at the higher places.
+- The leaderboard will be reset every week/month to create opportunity for new drivers
 
 #### Reason to Implement
 1) motivate drivers to complete more task  
@@ -135,4 +137,18 @@ Same as [[#Reasons to Implement|Leveling System]]
 
 ---
 ### Points System
+- A store system where the drivers can use the points they earn to exchange items or vouchers
+- The points can be acquired by daily clock-in, completing task, leveling up or other.
+
+---
 ### Health Check
+- A feature that can monitor the driver's health based on the active working hours, number of tasks completed in a specific period etc.
+- If the driver is having a unhealthy working behaviour (accepting too much tasks, driving too fast frequently to complete tasks etc), the system will stop the account from gaining exp/rewards.
+
+#### Reason to Implement
+1) Prevent the driver from doing too much that causes health isseus
+2) avoid company misuses the system (forcing drivers to complete more task)
+
+#### Problem
+- 
+

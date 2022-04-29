@@ -7,11 +7,10 @@
         "id": "19044ceca9ca9c66",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "Features.md",
-            "mode": "source",
-            "source": false
+            "file": ".obsidian/app.json",
+            "staged": false
           }
         }
       }
@@ -69,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
