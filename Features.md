@@ -85,7 +85,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 
 ##### Reason to Implement
 1) motivate drivers to complete more task  
-2) encourage drivers to maintain positive behaviour
+2) encourage drivers to maintain positive behaviour (driver kpi)
 ##### Problems
 - Create a competitive environment
 	- conflict might happen between drivers => affect working environment
