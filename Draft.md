@@ -11,8 +11,6 @@
 	2) training is not mandatory (driver does not volunteer to join the training)
 	
 - lack of management power ^193073
-	1) Manager sucks
-	2) manager lack of training
 
 - lack of benefits for drivers ^bceee3
 	1) management does not focus on drivers

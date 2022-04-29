@@ -11,8 +11,7 @@
 | [[#Driver KPI]]             | Safety precaution, ensure appropriateness, vehicle maintenance, customer feedback and rating on the driver           | 5     |
 | [[#Account Tier List]]      | Like [[https://www.grab.com/my/rewards/\|Grab]], better tier better reward.                                          | 4     |
 | [[#Health Check]]           | Prevent drivers from overdoing it                                                                                    | 4     |
-| [[#Daily Challenges Quest]] | Some simple task allow driver to gains exp                                                                           | 4     |
-| [[#Points System]]          | Gain points by completing task, exchange items/benefits with points                                                  | 2     |
+| [[#Daily Challenges Quest]] | Some simple task allow driver to gains exp                                                                           | 3     |
 | [[#Leaderboard]]            | Ranking based on driver rating/scores and contribution.                                                              | 2     |
 
 ---
@@ -63,6 +62,11 @@ Same as [[#Reasons to Implement|Leveling System]]
 #### Driver KPI
 - A feature to monitor drivers' behaviour based on his safety precautions, accountability and feedback/rating of the customers on the driver
 - Driver with higher rating can gain more exp while completing task
+- How to maintain good behaviour
+	1) driver safety
+	2) send the vehicle to maintenance on time
+	3) reduce engine idle hour
+	4) complete task on time etc.
 
 ##### Reason to Implement
 1) Drivers will become more responsible on their job (to get better rating or feedback)
@@ -108,7 +112,6 @@ Same as [[#Reasons to Implement|Leveling System]]
 
 ##### Problems
 1) The amount of benefits can be provided by each company might vary
-2) 
 
 ##### External Links
 - [[https://www.sololearn.com/|Sololearn]]
@@ -135,11 +138,6 @@ Same as [[#Reasons to Implement|Leveling System]]
 - [[https://byjus.com/|BYJUS]]
 
 ---
-#### Points System
-- A store system where the drivers can use the points they earn to exchange items or vouchers
-- The points can be acquired by daily clock-in, completing task, leveling up or other.
-
----
 #### Health Check
 - A feature that can monitor the driver's health based on the active working hours, number of tasks completed in a specific period etc.
 - If the driver is having a unhealthy working behaviour (accepting too much tasks, driving too fast frequently to complete tasks etc), the system will stop the account from gaining exp/rewards.
@@ -149,5 +147,5 @@ Same as [[#Reasons to Implement|Leveling System]]
 2) avoid company misuses the system (forcing drivers to complete more task)
 
 ##### Problem
-- 
+- manager might assign many tasks to drivers to prevent them getting rewards
 
