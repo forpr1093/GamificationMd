@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "10b776aeac5435d8",
+        "id": "19044ceca9ca9c66",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Features.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -111,7 +111,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "10b776aeac5435d8",
+  "active": "19044ceca9ca9c66",
   "lastOpenFiles": [
     "Features.md",
     "Draft.md",
