@@ -7,7 +7,7 @@
 ### Ideas
 | Features                    | Description                                                                                                          | Score |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[#RoadMap]]                | Drivers accept education, go for training to achieve several milestones                                              | 5     |
+| [[#Milestones]]                | Drivers accept education, go for training to achieve several milestones                                              | 5     |
 | [[#Leveling System]]        | driver gains exp by completing task or completing milestone and other. levelling up unlock benefits or increase tier | ?     |
 | [[#Account Tier List]]      | Like [[https://www.grab.com/my/rewards/\|Grab]], better tier better reward.                                          | 5     |
 | [[#Driver KPI]]             | Safety precaution, ensure appropriateness, vehicle maintenance, customer feedback and rating on the driver           | ?     |
