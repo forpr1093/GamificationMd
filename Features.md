@@ -9,7 +9,7 @@
 | [[#Milestones]]             | Drivers accept education, go for training to achieve several milestones                                              | 5     |
 | [[#Leveling System]]        | driver gains exp by completing task or completing milestone and other. levelling up unlock benefits or increase tier | 5     |
 | [[#Driver KPI]]             | Safety precaution, ensure appropriateness, vehicle maintenance, customer feedback and rating on the driver           | 5     |
-| [[#Account Tier List]]      | Like [[https://www.grab.com/my/rewards/\|Grab]], better tier better reward.                                          | 4     |
+| [[#Account Tier List]]      | Like [Grab](https://www.grab.com/my/rewards/), better tier better reward.                                          | 4     |
 | [[#Health Check]]           | Prevent drivers from overdoing it                                                                                    | 4     |
 | [[#Daily Challenges Quest]] | Some simple task allow driver to gains exp                                                                           | 3     |
 | [[#Leaderboard]]            | Ranking based on driver rating/scores and contribution.                                                              | 2     |
@@ -38,7 +38,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 - Company might not willing to provide such benefits to drivers
 
 ##### External Links
-- [[https://www.grab.com/my/rewards/|Grabrewards]]
+- [Grabrewards](https://www.grab.com/my/rewards/)
 ![[Pasted image 20220428172716.png]]
 
 ---
@@ -55,7 +55,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 - 
 
 ##### External Links
-- [[https://duoplanet.com/duolingo-challenges/|Duolingo Challanges]]
+- [Duolingo Challenges](https://duoplanet.com/duolingo-challenges/)
 ![[Pasted image 20220428180838.png]]
 
 ---
@@ -76,7 +76,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 - 
 
 ##### External Link
-- [[https://play.google.com/store/apps/details?id=com.globaltrack.gtdriver|GT Driver]]
+- [GT Driver](https://play.google.com/store/apps/details?id=com.globaltrack.gtdriver)
 
 ---
 #### Leaderboard
@@ -114,7 +114,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 1) The amount of benefits can be provided by each company might vary
 
 ##### External Links
-- [[https://www.sololearn.com/|Sololearn]]
+- [Sololearn](https://www.sololearn.com/)
 ![[Pasted image 20220429103238.png]]
 
 ---
@@ -135,7 +135,7 @@ Same as [[#Reasons to Implement|Leveling System]]
 - NO
 
 ##### External Links
-- [[https://byjus.com/|BYJUS]]
+- [Byjus](https://byjus.com/)
 
 ---
 #### Health Check
